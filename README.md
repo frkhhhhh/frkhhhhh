@@ -17,7 +17,7 @@ i'm farukh
 
 <br>
 
-- A passionate Self-taught Front-end developer
+- A passionate Self-taught Front-end python
 - Playing tennis in leisure time
 - Currently learning Web Development 
 
