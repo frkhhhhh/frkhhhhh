@@ -6,6 +6,7 @@ i'm farukh
 </p>
 
 
+
 <br>
 
 
@@ -128,6 +129,12 @@ i'm farukh
 	
 </ul>
 </div>
+</div>
+
+-----
+<details>
+  <summary>☎️ contact me +998904074327</summary>
+<div>
 
 
 
