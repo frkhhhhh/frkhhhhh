@@ -11,10 +11,9 @@ i'm farukh
 
 
 
-  
-## <picture><img src = "https://github.com/frkhhhhh/frkhhhhh/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> About me
+  About me
 
-<picture> <img align="right" src="https://github.com/frkhhhhh/0xfarukh/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
 
 <br>
 
