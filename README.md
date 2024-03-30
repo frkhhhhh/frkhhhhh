@@ -12,7 +12,7 @@ i'm farukh
 
 
   
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> About me
+## <picture><img src = "https://github.com/frkhhhhh/frkhhhhh/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/frkhhhhh/0xfarukh/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
@@ -94,10 +94,10 @@ i'm farukh
 
   <a href="https://www.hackerrank.com/frkhhhhh" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="Viral Bhadeshiya" height="30" width="40" /></a>
+      alt="frkhhhhh" height="30" width="40" /></a>
   <a href="https://www.upwork.com/freelancers/~01b76da506f37dac94" target="blank"><img align="center"
       src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Upwork-logo.svg"
-      alt="Viral Bhadeshiya" height="30" width="auto" /></a>
+      alt="frkhhhhh" height="30" width="auto" /></a>
 </p>
 
 -----
